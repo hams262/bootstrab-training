@@ -1,0 +1,41 @@
+/*Start default theme*/
+.option-box .color-option
+{
+    border: 4px solid #009aff;
+}
+.awesome i,
+.header form h2 span,
+.navbar-header span,
+.sublist .list-icon i,
+.header .overlay span
+{
+    color: #009aff;
+}
+
+.sublist .list-icon i
+{
+    border: 2px solid #009aff;
+}
+.awesome i
+{
+    border: 2px solid #009aff;
+}
+.price-options .option-price
+{
+    border-bottom: 6px solid #009aff
+}
+.option-box .gear-check,
+.option-box .color-option ul li,
+.tabs-section .tab-switch li.selected,
+.tabs-section .tab-switch li:hover,
+.tabs-section .tabs-content button,
+.price-options .most-pop,
+.contact-us .contact-btn,
+.header-border:after,
+.header-border-center:after,
+.header form input[type="submit"]
+{
+    background-color: #009aff;
+
+}
+/*End default theme*/

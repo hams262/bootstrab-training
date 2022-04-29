@@ -1,0 +1,41 @@
+/*Start default theme*/
+.option-box .color-option
+{
+    border: 4px solid #e426d5;
+}
+.awesome i,
+.header form h2 span,
+.navbar-header span,
+.sublist .list-icon i,
+.header .overlay span
+{
+    color: #e426d5;
+}
+
+.sublist .list-icon i
+{
+    border: 2px solid #e426d5;
+}
+.awesome i
+{
+    border: 2px solid #e426d5;
+}
+.price-options .option-price
+{
+    border-bottom: 6px solid #e426d5
+}
+.option-box .color-option ul li,
+.option-box .gear-check,
+.tabs-section .tab-switch li.selected,
+.tabs-section .tab-switch li:hover,
+.tabs-section .tabs-content button,
+.price-options .most-pop,
+.contact-us .contact-btn,
+.header-border:after,
+.header-border-center:after,
+.header form input[type="submit"]
+{
+    background-color: #e426d5;
+
+}
+/*End default theme*/
